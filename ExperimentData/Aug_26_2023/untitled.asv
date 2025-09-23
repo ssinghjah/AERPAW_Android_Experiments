@@ -1,0 +1,43 @@
+figure;
+
+rsrp = csvread("connected_bs_rsrp.csv");
+rsrq = csvread("connected_bs_rsrq.csv");
+rssi = csvread("connected_bs_rssi.csv");
+
+
+[y_rssi, x_rssi] = ecdf(rssi);
+[y_rsrp, x_rsrp] = ecdf(rsrp);
+[y_rsrq, x_rsrq] = ecdf(rsrq);
+
+% Create the first axes
+hax1 = axes();
+
+% Plot something here
+xdata = 1:10;
+hplot1 = line(x_rssi, y_rssi, 'Color', 'c');
+hplot2 = line(x_rsrp, y_rsrp, 'Color', 'r');
+
+    
+% Create a transparent axes on top of the first one with it's xaxis on top
+% and no ytick marks (or labels)
+hax2 = axes('Position', get(hax1, 'Position'), ...  % Copy position
+            'XAxisLocation', 'top', ...             % Put the x axis on top
+            'YAxisLocation', 'right', ...           % Doesn't really matter
+            'xlim', [min(x_rsrq) max(x_rsrq)], ...                     % Set XLims to fit our data
+            'Color', 'none', ...                    % Make it transparent
+            'YTick', []);                           % Don't show markers on y axis
+            
+% Plot data with a different x-range here
+
+hplot3 = line(x_rsrq, y_rsrq, 'Color', 'g', 'Parent', hax2);
+
+% Link the y limits and position together
+linkprop([hax1, hax2], {'ylim', 'Position'});
+
+% Draw some labels
+xlabel(hax1, 'Blue Line')
+xlabel(hax2, 'Red Line')
+ylabel(hax1, 'Some Value')
+
+% Add a legend? Why not?!
+legend([hplot1, hplot2], {'Blue', 'Red'})

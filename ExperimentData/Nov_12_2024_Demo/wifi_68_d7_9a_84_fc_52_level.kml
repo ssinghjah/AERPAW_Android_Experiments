@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="8">
+            <LineStyle id="10">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="9">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="13">
+            <LineStyle id="14">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="21">
+            <LineStyle id="23">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="22">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="26">
+            <LineStyle id="27">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="34">
+            <LineStyle id="36">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="35">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="39">
+            <LineStyle id="40">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="47">
+            <LineStyle id="49">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="48">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="52">
+            <LineStyle id="53">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="60">
+            <LineStyle id="62">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="61">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="65">
+            <LineStyle id="66">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="73">
+            <LineStyle id="75">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="74">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="78">
+            <LineStyle id="79">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="86">
+            <LineStyle id="88">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="87">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="91">
+            <LineStyle id="92">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="99">
+            <LineStyle id="101">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="100">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="104">
+            <LineStyle id="105">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="112">
+            <LineStyle id="114">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="113">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="117">
+            <LineStyle id="118">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="125">
+            <LineStyle id="127">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="126">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="130">
+            <LineStyle id="131">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="138">
+            <LineStyle id="140">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="139">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="143">
+            <LineStyle id="144">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="151">
+            <LineStyle id="153">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="152">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="156">
+            <LineStyle id="157">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="164">
+            <LineStyle id="166">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="165">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="169">
+            <LineStyle id="170">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="177">
+            <LineStyle id="179">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="178">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="182">
+            <LineStyle id="183">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="190">
+            <LineStyle id="192">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="191">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="195">
+            <LineStyle id="196">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="203">
+            <LineStyle id="205">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="204">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="208">
+            <LineStyle id="209">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="216">
+            <LineStyle id="218">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="217">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="221">
+            <LineStyle id="222">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="229">
+            <LineStyle id="231">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="230">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="234">
+            <LineStyle id="235">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="242">
+            <LineStyle id="244">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="243">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="247">
+            <LineStyle id="248">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="255">
+            <LineStyle id="257">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="256">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="260">
+            <LineStyle id="261">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="268">
+            <LineStyle id="270">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="269">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="273">
+            <LineStyle id="274">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="281">
+            <LineStyle id="283">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="282">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="286">
+            <LineStyle id="287">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="294">
+            <LineStyle id="296">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="295">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="299">
+            <LineStyle id="300">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="307">
+            <LineStyle id="309">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="308">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="312">
+            <LineStyle id="313">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="320">
+            <LineStyle id="322">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="321">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="325">
+            <LineStyle id="326">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="333">
+            <LineStyle id="335">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="334">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="338">
+            <LineStyle id="339">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="346">
+            <LineStyle id="348">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="347">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="351">
+            <LineStyle id="352">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="359">
+            <LineStyle id="361">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="360">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="364">
+            <LineStyle id="365">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="372">
+            <LineStyle id="374">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="373">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="377">
+            <LineStyle id="378">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="385">
+            <LineStyle id="387">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="386">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="390">
+            <LineStyle id="391">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="398">
+            <LineStyle id="400">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="399">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="403">
+            <LineStyle id="404">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="411">
+            <LineStyle id="413">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="412">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="416">
+            <LineStyle id="417">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="424">
+            <LineStyle id="426">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="425">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="429">
+            <LineStyle id="430">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="437">
+            <LineStyle id="439">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="438">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="442">
+            <LineStyle id="443">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="450">
+            <LineStyle id="452">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="451">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="455">
+            <LineStyle id="456">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="463">
+            <LineStyle id="465">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="464">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="468">
+            <LineStyle id="469">
+                <color>ff00ff33</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749407316214,-78.6962102)&lt;/p&gt;&lt;p&gt; altitude = -4.412705942138048 m&lt;/p&gt;&lt;p&gt; index = 63&lt;/p&gt;</description>
+            <styleUrl>#8</styleUrl>
+            <Polygon id="2">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="6">
+                        <coordinates>-78.69622367466762,35.727480598494516,-4.412705942138048 -78.69619672533237,35.727480598494516,-4.412705942138048 -78.69619672533237,35.72750754782977,-4.412705942138048 -78.69622367466762,35.72750754782977,-4.412705942138048 -78.69622367466762,35.727480598494516,-4.412705942138048</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="12">
+            <styleUrl>#13</styleUrl>
+            <LineString id="11">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962102,35.72749407316214,-4.412705942138048 -78.6962102,35.72749407316214,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="16">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749395454397,-78.69621027272802)&lt;/p&gt;&lt;p&gt; altitude = -4.408999918118862 m&lt;/p&gt;&lt;p&gt; index = 64&lt;/p&gt;</description>
+            <styleUrl>#21</styleUrl>
+            <Polygon id="15">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="19">
+                        <coordinates>-78.69622374739565,35.72748047987634,-4.408999918118862 -78.6961967980604,35.72748047987634,-4.408999918118862 -78.6961967980604,35.72750742921159,-4.408999918118862 -78.69622374739565,35.72750742921159,-4.408999918118862 -78.69622374739565,35.72748047987634,-4.408999918118862</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="25">
+            <styleUrl>#26</styleUrl>
+            <LineString id="24">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621027272802,35.72749395454397,-4.408999918118862 -78.69621027272802,35.72749395454397,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="29">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749368440875,-78.6962103)&lt;/p&gt;&lt;p&gt; altitude = -4.406718637499951 m&lt;/p&gt;&lt;p&gt; index = 65&lt;/p&gt;</description>
+            <styleUrl>#34</styleUrl>
+            <Polygon id="28">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="32">
+                        <coordinates>-78.69622377466763,35.727480209741124,-4.406718637499951 -78.69619682533238,35.727480209741124,-4.406718637499951 -78.69619682533238,35.727507159076374,-4.406718637499951 -78.69622377466763,35.727507159076374,-4.406718637499951 -78.69622377466763,35.727480209741124,-4.406718637499951</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="38">
+            <styleUrl>#39</styleUrl>
+            <LineString id="37">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962103,35.72749368440875,-4.406718637499951 -78.6962103,35.72749368440875,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="42">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727493528758146,-78.6962103)&lt;/p&gt;&lt;p&gt; altitude = -4.392039210014659 m&lt;/p&gt;&lt;p&gt; index = 66&lt;/p&gt;</description>
+            <styleUrl>#47</styleUrl>
+            <Polygon id="41">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="45">
+                        <coordinates>-78.69622377466763,35.72748005409052,-4.392039210014659 -78.69619682533238,35.72748005409052,-4.392039210014659 -78.69619682533238,35.72750700342577,-4.392039210014659 -78.69622377466763,35.72750700342577,-4.392039210014659 -78.69622377466763,35.72748005409052,-4.392039210014659</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="51">
+            <styleUrl>#52</styleUrl>
+            <LineString id="50">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962103,35.727493528758146,-4.392039210014659 -78.6962103,35.727493528758146,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="55">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7274935,-78.6962103)&lt;/p&gt;&lt;p&gt; altitude = -4.386 m&lt;/p&gt;&lt;p&gt; index = 67&lt;/p&gt;</description>
+            <styleUrl>#60</styleUrl>
+            <Polygon id="54">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="58">
+                        <coordinates>-78.69622377466763,35.727480025332376,-4.386 -78.69619682533238,35.727480025332376,-4.386 -78.69619682533238,35.72750697466763,-4.386 -78.69622377466763,35.72750697466763,-4.386 -78.69622377466763,35.727480025332376,-4.386</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="64">
+            <styleUrl>#65</styleUrl>
+            <LineString id="63">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962103,35.7274935,-4.386 -78.6962103,35.7274935,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="68">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749357010489,-78.6962103)&lt;/p&gt;&lt;p&gt; altitude = -4.404227270651683 m&lt;/p&gt;&lt;p&gt; index = 68&lt;/p&gt;</description>
+            <styleUrl>#73</styleUrl>
+            <Polygon id="67">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="71">
+                        <coordinates>-78.69622377466763,35.727480095437265,-4.404227270651683 -78.69619682533238,35.727480095437265,-4.404227270651683 -78.69619682533238,35.727507044772516,-4.404227270651683 -78.69622377466763,35.727507044772516,-4.404227270651683 -78.69622377466763,35.727480095437265,-4.404227270651683</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="77">
+            <styleUrl>#78</styleUrl>
+            <LineString id="76">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962103,35.72749357010489,-4.404227270651683 -78.6962103,35.72749357010489,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="81">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749353131376,-78.69621023131376)&lt;/p&gt;&lt;p&gt; altitude = -4.410626275217067 m&lt;/p&gt;&lt;p&gt; index = 69&lt;/p&gt;</description>
+            <styleUrl>#86</styleUrl>
+            <Polygon id="80">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="84">
+                        <coordinates>-78.69622370598138,35.72748005664614,-4.410626275217067 -78.69619675664613,35.72748005664614,-4.410626275217067 -78.69619675664613,35.72750700598139,-4.410626275217067 -78.69622370598138,35.72750700598139,-4.410626275217067 -78.69622370598138,35.72748005664614,-4.410626275217067</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="90">
+            <styleUrl>#91</styleUrl>
+            <LineString id="89">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621023131376,35.72749353131376,-4.410626275217067 -78.69621023131376,35.72749353131376,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="94">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727493364934794,-78.6962102675326)&lt;/p&gt;&lt;p&gt; altitude = -4.40054543583853 m&lt;/p&gt;&lt;p&gt; index = 70&lt;/p&gt;</description>
+            <styleUrl>#99</styleUrl>
+            <Polygon id="93">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="97">
+                        <coordinates>-78.69622374220023,35.72747989026717,-4.40054543583853 -78.69619679286498,35.72747989026717,-4.40054543583853 -78.69619679286498,35.72750683960242,-4.40054543583853 -78.69622374220023,35.72750683960242,-4.40054543583853 -78.69622374220023,35.72747989026717,-4.40054543583853</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="103">
+            <styleUrl>#104</styleUrl>
+            <LineString id="102">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962102675326,35.727493364934794,-4.40054543583853 -78.6962102675326,35.727493364934794,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="107">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749323293588,-78.69621016587176)&lt;/p&gt;&lt;p&gt; altitude = -4.395329358780584 m&lt;/p&gt;&lt;p&gt; index = 71&lt;/p&gt;</description>
+            <styleUrl>#112</styleUrl>
+            <Polygon id="106">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="110">
+                        <coordinates>-78.69622364053939,35.72747975826825,-4.395329358780584 -78.69619669120414,35.72747975826825,-4.395329358780584 -78.69619669120414,35.7275067076035,-4.395329358780584 -78.69622364053939,35.7275067076035,-4.395329358780584 -78.69622364053939,35.72747975826825,-4.395329358780584</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="116">
+            <styleUrl>#117</styleUrl>
+            <LineString id="115">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621016587176,35.72749323293588,-4.395329358780584 -78.69621016587176,35.72749323293588,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="120">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7274932,-78.6962101657734)&lt;/p&gt;&lt;p&gt; altitude = -4.396973201931909 m&lt;/p&gt;&lt;p&gt; index = 72&lt;/p&gt;</description>
+            <styleUrl>#125</styleUrl>
+            <Polygon id="119">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="123">
+                        <coordinates>-78.69622364044102,35.72747972533237,-4.396973201931909 -78.69619669110577,35.72747972533237,-4.396973201931909 -78.69619669110577,35.72750667466762,-4.396973201931909 -78.69622364044102,35.72750667466762,-4.396973201931909 -78.69622364044102,35.72747972533237,-4.396973201931909</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="129">
+            <styleUrl>#130</styleUrl>
+            <LineString id="128">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962101657734,35.7274932,-4.396973201931909 -78.6962101657734,35.7274932,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="133">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749326470201,-78.6962102)&lt;/p&gt;&lt;p&gt; altitude = -4.387647677258246 m&lt;/p&gt;&lt;p&gt; index = 73&lt;/p&gt;</description>
+            <styleUrl>#138</styleUrl>
+            <Polygon id="132">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="136">
+                        <coordinates>-78.69622367466762,35.72747979003439,-4.387647677258246 -78.69619672533237,35.72747979003439,-4.387647677258246 -78.69619672533237,35.72750673936964,-4.387647677258246 -78.69622367466762,35.72750673936964,-4.387647677258246 -78.69622367466762,35.72747979003439,-4.387647677258246</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="142">
+            <styleUrl>#143</styleUrl>
+            <LineString id="141">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962102,35.72749326470201,-4.387647677258246 -78.6962102,35.72749326470201,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="146">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -57 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7274933,-78.6962100727287)&lt;/p&gt;&lt;p&gt; altitude = -4.383909069370289 m&lt;/p&gt;&lt;p&gt; index = 74&lt;/p&gt;</description>
+            <styleUrl>#151</styleUrl>
+            <Polygon id="145">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="149">
+                        <coordinates>-78.69622354739633,35.727479825332374,-4.383909069370289 -78.69619659806108,35.727479825332374,-4.383909069370289 -78.69619659806108,35.727506774667624,-4.383909069370289 -78.69622354739633,35.727506774667624,-4.383909069370289 -78.69622354739633,35.727479825332374,-4.383909069370289</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="155">
+            <styleUrl>#156</styleUrl>
+            <LineString id="154">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962100727287,35.7274933,-4.383909069370289 -78.6962100727287,35.7274933,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="159">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727492773982554,-78.69621222055648)&lt;/p&gt;&lt;p&gt; altitude = 26.99015189319273 m&lt;/p&gt;&lt;p&gt; index = 75&lt;/p&gt;</description>
+            <styleUrl>#164</styleUrl>
+            <Polygon id="158">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="162">
+                        <coordinates>-78.6962256952241,35.72747929931493,26.99015189319273 -78.69619874588885,35.72747929931493,26.99015189319273 -78.69619874588885,35.72750624865018,26.99015189319273 -78.6962256952241,35.72750624865018,26.99015189319273 -78.6962256952241,35.72747929931493,26.99015189319273</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="168">
+            <styleUrl>#169</styleUrl>
+            <LineString id="167">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621222055648,35.727492773982554,26.99015189319273 -78.69621222055648,35.727492773982554,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="172">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7274916561258,-78.6962113877484)&lt;/p&gt;&lt;p&gt; altitude = 28.602342066627383 m&lt;/p&gt;&lt;p&gt; index = 76&lt;/p&gt;</description>
+            <styleUrl>#177</styleUrl>
+            <Polygon id="171">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="175">
+                        <coordinates>-78.69622486241603,35.727478181458174,28.602342066627383 -78.69619791308078,35.727478181458174,28.602342066627383 -78.69619791308078,35.727505130793425,28.602342066627383 -78.69622486241603,35.727505130793425,28.602342066627383 -78.69622486241603,35.727478181458174,28.602342066627383</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="181">
+            <styleUrl>#182</styleUrl>
+            <LineString id="180">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962113877484,35.7274916561258,28.602342066627383 -78.6962113877484,35.7274916561258,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="185">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7274916256662,-78.69621180472184)&lt;/p&gt;&lt;p&gt; altitude = 29.661545111727964 m&lt;/p&gt;&lt;p&gt; index = 77&lt;/p&gt;</description>
+            <styleUrl>#190</styleUrl>
+            <Polygon id="184">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="188">
+                        <coordinates>-78.69622527938947,35.72747815099857,29.661545111727964 -78.69619833005422,35.72747815099857,29.661545111727964 -78.69619833005422,35.72750510033382,29.661545111727964 -78.69622527938947,35.72750510033382,29.661545111727964 -78.69622527938947,35.72747815099857,29.661545111727964</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="194">
+            <styleUrl>#195</styleUrl>
+            <LineString id="193">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621180472184,35.7274916256662,29.661545111727964 -78.69621180472184,35.7274916256662,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="198">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749214169352,-78.69621249185461)&lt;/p&gt;&lt;p&gt; altitude = 30.0904463853462 m&lt;/p&gt;&lt;p&gt; index = 78&lt;/p&gt;</description>
+            <styleUrl>#203</styleUrl>
+            <Polygon id="197">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="201">
+                        <coordinates>-78.69622596652223,35.72747866702589,30.0904463853462 -78.69619901718698,35.72747866702589,30.0904463853462 -78.69619901718698,35.72750561636114,30.0904463853462 -78.69622596652223,35.72750561636114,30.0904463853462 -78.69622596652223,35.72747866702589,30.0904463853462</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="207">
+            <styleUrl>#208</styleUrl>
+            <LineString id="206">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621249185461,35.72749214169352,30.0904463853462 -78.69621249185461,35.72749214169352,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="211">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749235845976,-78.69621361948658)&lt;/p&gt;&lt;p&gt; altitude = 30.012984828855725 m&lt;/p&gt;&lt;p&gt; index = 79&lt;/p&gt;</description>
+            <styleUrl>#216</styleUrl>
+            <Polygon id="210">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="214">
+                        <coordinates>-78.69622709415421,35.72747888379214,30.012984828855725 -78.69620014481896,35.72747888379214,30.012984828855725 -78.69620014481896,35.72750583312739,30.012984828855725 -78.69622709415421,35.72750583312739,30.012984828855725 -78.69622709415421,35.72747888379214,30.012984828855725</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="220">
+            <styleUrl>#221</styleUrl>
+            <LineString id="219">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621361948658,35.72749235845976,30.012984828855725 -78.69621361948658,35.72749235845976,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="224">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72749274938315,-78.69621349459815)&lt;/p&gt;&lt;p&gt; altitude = 29.98754784997229 m&lt;/p&gt;&lt;p&gt; index = 80&lt;/p&gt;</description>
+            <styleUrl>#229</styleUrl>
+            <Polygon id="223">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="227">
+                        <coordinates>-78.69622696926578,35.72747927471553,29.98754784997229 -78.69620001993053,35.72747927471553,29.98754784997229 -78.69620001993053,35.72750622405078,29.98754784997229 -78.69622696926578,35.72750622405078,29.98754784997229 -78.69622696926578,35.72747927471553,29.98754784997229</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="233">
+            <styleUrl>#234</styleUrl>
+            <LineString id="232">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621349459815,35.72749274938315,29.98754784997229 -78.69621349459815,35.72749274938315,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="237">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727493039056554,-78.6962126)&lt;/p&gt;&lt;p&gt; altitude = 30.006970377896184 m&lt;/p&gt;&lt;p&gt; index = 81&lt;/p&gt;</description>
+            <styleUrl>#242</styleUrl>
+            <Polygon id="236">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="240">
+                        <coordinates>-78.69622607466762,35.72747956438893,30.006970377896184 -78.69619912533237,35.72747956438893,30.006970377896184 -78.69619912533237,35.72750651372418,30.006970377896184 -78.69622607466762,35.72750651372418,30.006970377896184 -78.69622607466762,35.72747956438893,30.006970377896184</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="246">
+            <styleUrl>#247</styleUrl>
+            <LineString id="245">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962126,35.727493039056554,30.006970377896184 -78.6962126,35.727493039056554,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="250">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727487371432304,-78.69621363904234)&lt;/p&gt;&lt;p&gt; altitude = 30.004583729341867 m&lt;/p&gt;&lt;p&gt; index = 82&lt;/p&gt;</description>
+            <styleUrl>#255</styleUrl>
+            <Polygon id="249">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="253">
+                        <coordinates>-78.69622711370997,35.72747389676468,30.004583729341867 -78.69620016437472,35.72747389676468,30.004583729341867 -78.69620016437472,35.72750084609993,30.004583729341867 -78.69622711370997,35.72750084609993,30.004583729341867 -78.69622711370997,35.72747389676468,30.004583729341867</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="259">
+            <styleUrl>#260</styleUrl>
+            <LineString id="258">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621363904234,35.727487371432304,30.004583729341867 -78.69621363904234,35.727487371432304,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="263">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727462828256265,-78.69621989111931)&lt;/p&gt;&lt;p&gt; altitude = 29.91031833823093 m&lt;/p&gt;&lt;p&gt; index = 83&lt;/p&gt;</description>
+            <styleUrl>#268</styleUrl>
+            <Polygon id="262">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="266">
+                        <coordinates>-78.69623336578694,35.72744935358864,29.91031833823093 -78.69620641645169,35.72744935358864,29.91031833823093 -78.69620641645169,35.72747630292389,29.91031833823093 -78.69623336578694,35.72747630292389,29.91031833823093 -78.69623336578694,35.72744935358864,29.91031833823093</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="272">
+            <styleUrl>#273</styleUrl>
+            <LineString id="271">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69621989111931,35.727462828256265,29.91031833823093 -78.69621989111931,35.727462828256265,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="276">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72742657891127,-78.69622858712646)&lt;/p&gt;&lt;p&gt; altitude = 29.88827417084446 m&lt;/p&gt;&lt;p&gt; index = 84&lt;/p&gt;</description>
+            <styleUrl>#281</styleUrl>
+            <Polygon id="275">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="279">
+                        <coordinates>-78.69624206179408,35.727413104243645,29.88827417084446 -78.69621511245883,35.727413104243645,29.88827417084446 -78.69621511245883,35.727440053578896,29.88827417084446 -78.69624206179408,35.727440053578896,29.88827417084446 -78.69624206179408,35.727413104243645,29.88827417084446</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="285">
+            <styleUrl>#286</styleUrl>
+            <LineString id="284">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69622858712646,35.72742657891127,29.88827417084446 -78.69622858712646,35.72742657891127,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="289">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72738526159447,-78.6962373500488)&lt;/p&gt;&lt;p&gt; altitude = 29.84760250732544 m&lt;/p&gt;&lt;p&gt; index = 85&lt;/p&gt;</description>
+            <styleUrl>#294</styleUrl>
+            <Polygon id="288">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="292">
+                        <coordinates>-78.69625082471643,35.727371786926845,29.84760250732544 -78.69622387538118,35.727371786926845,29.84760250732544 -78.69622387538118,35.727398736262096,29.84760250732544 -78.69625082471643,35.727398736262096,29.84760250732544 -78.69625082471643,35.727371786926845,29.84760250732544</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="298">
+            <styleUrl>#299</styleUrl>
+            <LineString id="297">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6962373500488,35.72738526159447,29.84760250732544 -78.6962373500488,35.72738526159447,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="302">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -53 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.7273410561045,-78.69624673873771)&lt;/p&gt;&lt;p&gt; altitude = 29.906869494406628 m&lt;/p&gt;&lt;p&gt; index = 86&lt;/p&gt;</description>
+            <styleUrl>#307</styleUrl>
+            <Polygon id="301">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="305">
+                        <coordinates>-78.69626021340534,35.727327581436874,29.906869494406628 -78.69623326407009,35.727327581436874,29.906869494406628 -78.69623326407009,35.727354530772125,29.906869494406628 -78.69626021340534,35.727354530772125,29.906869494406628 -78.69626021340534,35.727327581436874,29.906869494406628</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="311">
+            <styleUrl>#312</styleUrl>
+            <LineString id="310">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69624673873771,35.7273410561045,29.906869494406628 -78.69624673873771,35.7273410561045,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="315">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72721243778896,-78.6989075)&lt;/p&gt;&lt;p&gt; altitude = 29.94526936439368 m&lt;/p&gt;&lt;p&gt; index = 87&lt;/p&gt;</description>
+            <styleUrl>#320</styleUrl>
+            <Polygon id="314">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="318">
+                        <coordinates>-78.69892097466763,35.72719896312133,29.94526936439368 -78.69889402533238,35.72719896312133,29.94526936439368 -78.69889402533238,35.72722591245658,29.94526936439368 -78.69892097466763,35.72722591245658,29.94526936439368 -78.69892097466763,35.72719896312133,29.94526936439368</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="324">
+            <styleUrl>#325</styleUrl>
+            <LineString id="323">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6989075,35.72721243778896,29.94526936439368 -78.6989075,35.72721243778896,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="328">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72715064241431,-78.69890757670821)&lt;/p&gt;&lt;p&gt; altitude = 29.95315943311048 m&lt;/p&gt;&lt;p&gt; index = 88&lt;/p&gt;</description>
+            <styleUrl>#333</styleUrl>
+            <Polygon id="327">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="331">
+                        <coordinates>-78.69892105137583,35.72713716774668,29.95315943311048 -78.69889410204058,35.72713716774668,29.95315943311048 -78.69889410204058,35.727164117081934,29.95315943311048 -78.69892105137583,35.727164117081934,29.95315943311048 -78.69892105137583,35.72713716774668,29.95315943311048</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="337">
+            <styleUrl>#338</styleUrl>
+            <LineString id="336">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890757670821,35.72715064241431,29.95315943311048 -78.69890757670821,35.72715064241431,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="341">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.727088690109966,-78.69890801867254)&lt;/p&gt;&lt;p&gt; altitude = 29.96379528144645 m&lt;/p&gt;&lt;p&gt; index = 89&lt;/p&gt;</description>
+            <styleUrl>#346</styleUrl>
+            <Polygon id="340">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="344">
+                        <coordinates>-78.69892149334017,35.72707521544234,29.96379528144645 -78.69889454400492,35.72707521544234,29.96379528144645 -78.69889454400492,35.72710216477759,29.96379528144645 -78.69892149334017,35.72710216477759,29.96379528144645 -78.69892149334017,35.72707521544234,29.96379528144645</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="350">
+            <styleUrl>#351</styleUrl>
+            <LineString id="349">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890801867254,35.727088690109966,29.96379528144645 -78.69890801867254,35.727088690109966,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="354">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72702626248662,-78.69890846092984)&lt;/p&gt;&lt;p&gt; altitude = 29.93654233313672 m&lt;/p&gt;&lt;p&gt; index = 90&lt;/p&gt;</description>
+            <styleUrl>#359</styleUrl>
+            <Polygon id="353">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="357">
+                        <coordinates>-78.69892193559747,35.72701278781899,29.93654233313672 -78.69889498626222,35.72701278781899,29.93654233313672 -78.69889498626222,35.72703973715424,29.93654233313672 -78.69892193559747,35.72703973715424,29.93654233313672 -78.69892193559747,35.72701278781899,29.93654233313672</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="363">
+            <styleUrl>#364</styleUrl>
+            <LineString id="362">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890846092984,35.72702626248662,29.93654233313672 -78.69890846092984,35.72702626248662,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="367">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72696387354102,-78.69890781492452)&lt;/p&gt;&lt;p&gt; altitude = 29.95513728262099 m&lt;/p&gt;&lt;p&gt; index = 91&lt;/p&gt;</description>
+            <styleUrl>#372</styleUrl>
+            <Polygon id="366">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="370">
+                        <coordinates>-78.69892128959215,35.72695039887339,29.95513728262099 -78.6988943402569,35.72695039887339,29.95513728262099 -78.6988943402569,35.72697734820864,29.95513728262099 -78.69892128959215,35.72697734820864,29.95513728262099 -78.69892128959215,35.72695039887339,29.95513728262099</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="376">
+            <styleUrl>#377</styleUrl>
+            <LineString id="375">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890781492452,35.72696387354102,29.95513728262099 -78.69890781492452,35.72696387354102,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="380">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.726901230492324,-78.69890824455983)&lt;/p&gt;&lt;p&gt; altitude = 29.970336794992807 m&lt;/p&gt;&lt;p&gt; index = 92&lt;/p&gt;</description>
+            <styleUrl>#385</styleUrl>
+            <Polygon id="379">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="383">
+                        <coordinates>-78.69892171922746,35.7268877558247,29.970336794992807 -78.6988947698922,35.7268877558247,29.970336794992807 -78.6988947698922,35.72691470515995,29.970336794992807 -78.69892171922746,35.72691470515995,29.970336794992807 -78.69892171922746,35.7268877558247,29.970336794992807</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="389">
+            <styleUrl>#390</styleUrl>
+            <LineString id="388">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890824455983,35.726901230492324,29.970336794992807 -78.69890824455983,35.726901230492324,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="393">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72683856437057,-78.69890846636014)&lt;/p&gt;&lt;p&gt; altitude = 29.96836398598584 m&lt;/p&gt;&lt;p&gt; index = 93&lt;/p&gt;</description>
+            <styleUrl>#398</styleUrl>
+            <Polygon id="392">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="396">
+                        <coordinates>-78.69892194102776,35.72682508970294,29.96836398598584 -78.69889499169251,35.72682508970294,29.96836398598584 -78.69889499169251,35.72685203903819,29.96836398598584 -78.69892194102776,35.72685203903819,29.96836398598584 -78.69892194102776,35.72682508970294,29.96836398598584</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="402">
+            <styleUrl>#403</styleUrl>
+            <LineString id="401">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890846636014,35.72683856437057,29.96836398598584 -78.69890846636014,35.72683856437057,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="406">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72677638374385,-78.69890880360393)&lt;/p&gt;&lt;p&gt; altitude = 29.944792792161827 m&lt;/p&gt;&lt;p&gt; index = 94&lt;/p&gt;</description>
+            <styleUrl>#411</styleUrl>
+            <Polygon id="405">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="409">
+                        <coordinates>-78.69892227827155,35.72676290907622,29.944792792161827 -78.6988953289363,35.72676290907622,29.944792792161827 -78.6988953289363,35.72678985841147,29.944792792161827 -78.69892227827155,35.72678985841147,29.944792792161827 -78.69892227827155,35.72676290907622,29.944792792161827</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="415">
+            <styleUrl>#416</styleUrl>
+            <LineString id="414">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890880360393,35.72677638374385,29.944792792161827 -78.69890880360393,35.72677638374385,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="419">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.726713635869,-78.6989093196584)&lt;/p&gt;&lt;p&gt; altitude = 29.943601138698227 m&lt;/p&gt;&lt;p&gt; index = 95&lt;/p&gt;</description>
+            <styleUrl>#424</styleUrl>
+            <Polygon id="418">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="422">
+                        <coordinates>-78.69892279432602,35.72670016120137,29.943601138698227 -78.69889584499077,35.72670016120137,29.943601138698227 -78.69889584499077,35.72672711053662,29.943601138698227 -78.69892279432602,35.72672711053662,29.943601138698227 -78.69892279432602,35.72670016120137,29.943601138698227</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="428">
+            <styleUrl>#429</styleUrl>
+            <LineString id="427">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.6989093196584,35.726713635869,29.943601138698227 -78.6989093196584,35.726713635869,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="432">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.726651299302645,-78.69890987555998)&lt;/p&gt;&lt;p&gt; altitude = 29.942 m&lt;/p&gt;&lt;p&gt; index = 96&lt;/p&gt;</description>
+            <styleUrl>#437</styleUrl>
+            <Polygon id="431">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="435">
+                        <coordinates>-78.6989233502276,35.72663782463502,29.942 -78.69889640089235,35.72663782463502,29.942 -78.69889640089235,35.72666477397027,29.942 -78.6989233502276,35.72666477397027,29.942 -78.6989233502276,35.72663782463502,29.942</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="441">
+            <styleUrl>#442</styleUrl>
+            <LineString id="440">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69890987555998,35.726651299302645,29.942 -78.69890987555998,35.726651299302645,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="445">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72658882133948,-78.69891029030683)&lt;/p&gt;&lt;p&gt; altitude = 29.93965202243352 m&lt;/p&gt;&lt;p&gt; index = 97&lt;/p&gt;</description>
+            <styleUrl>#450</styleUrl>
+            <Polygon id="444">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="448">
+                        <coordinates>-78.69892376497445,35.72657534667186,29.93965202243352 -78.6988968156392,35.72657534667186,29.93965202243352 -78.6988968156392,35.72660229600711,29.93965202243352 -78.69892376497445,35.72660229600711,29.93965202243352 -78.69892376497445,35.72657534667186,29.93965202243352</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="454">
+            <styleUrl>#455</styleUrl>
+            <LineString id="453">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69891029030683,35.72658882133948,29.93965202243352 -78.69891029030683,35.72658882133948,0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="458">
+            <description>&lt;p&gt;&lt;strong&gt;unknown ssid&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;bssid = 68:d7:9a:84:fc:52 &lt;/p&gt;&lt;p&gt;level = -69 &lt;/p&gt;&lt;p&gt;(lat, lon) = (35.72652351415655,-78.69891068245404)&lt;/p&gt;&lt;p&gt; altitude = 29.92040248295848 m&lt;/p&gt;&lt;p&gt; index = 98&lt;/p&gt;</description>
+            <styleUrl>#463</styleUrl>
+            <Polygon id="457">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <outerBoundaryIs>
+                    <LinearRing id="461">
+                        <coordinates>-78.69892415712167,35.72651003948892,29.92040248295848 -78.69889720778642,35.72651003948892,29.92040248295848 -78.69889720778642,35.72653698882417,29.92040248295848 -78.69892415712167,35.72653698882417,29.92040248295848 -78.69892415712167,35.72651003948892,29.92040248295848</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="467">
+            <styleUrl>#468</styleUrl>
+            <LineString id="466">
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>-78.69891068245404,35.72652351415655,29.92040248295848 -78.69891068245404,35.72652351415655,0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
