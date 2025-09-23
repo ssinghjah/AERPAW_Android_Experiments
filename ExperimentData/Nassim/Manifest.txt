@@ -1,0 +1,2 @@
+IP Address of PortableNode is 192.168.107.1
+IP Address of OEO Console is 192.168.107.62
